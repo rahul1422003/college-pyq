@@ -1,0 +1,70 @@
+@charset "UTF-8";
+body{
+	font-family:'segoe UI',sans-serif;
+	background-color:#f4f4f4;
+	margin:0;
+	padding:0;
+}
+.header{
+	background-color:#004080;
+	color:white;
+	text-align:center;
+	padding:25px;
+}
+.subject{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	padding:20px;
+}
+
+.box-container{
+	background-color:white;
+	border-radius: 10px;
+	box-shadow:0 0 12px rgba(0,0,0,0.1);
+	margin:15px;
+	padding:20px;
+	width:300px;
+	text-align:center;
+}
+
+.box-container h3{
+	color:#004080;
+}
+.box-container ul{
+	list-style-type:none;
+	padding:0;
+}
+
+.box-container li{
+	margin:10px 0;
+}
+
+.box-container li a{
+	text-decoration:none;
+	color:#0066cc;
+	font-weight:600;
+}
+
+.box-container a:hover{
+	text-decoration:underline;
+}
+#searchBar{
+  position: fixed;
+  top: 40px;
+  right: 80px;
+  height: 35px;
+  width: 180px;
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 2px solid #3f51b5;
+  border-radius: 5px;
+  outline: none;
+  transition: 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#searchBar:focus {
+  border-color: #1a237e;
+  box-shadow: 0 0 8px rgba(63, 81, 181, 0.5);
+}
