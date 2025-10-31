@@ -14,25 +14,33 @@
 <head>
   <meta charset="UTF-8">
   <title>Select Course | LNCT PYQ Portal</title>
-  <link rel="stylesheet" href="course.css">
+  <link rel="stylesheet" href="course.css?v=3">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
-  <div class="header">
-    <img src="image/lnct.png" class="lnct-logo" alt="LNCT Logo">
-    <input type="text" id="searchBar" class="searchBar" placeholder="Search Course">
-    <div class="user-info">
+  <header class="header">
+    <div class="top-bar">
+      <div class="logo-container">
+        <img src="image/lnct.png" alt="LNCT Logo" class="logo">
+      </div>
+      <div class="search-container">
+        <input type="text" id="searchBar" placeholder="Search Course">
+      </div>
+    </div>
+
+    <div class="header-content">
       <h1>Welcome <%= name %></h1>
       <p>Enrollment No: <%= enrollment %></p>
       <h2>LNCT University, Bhopal</h2>
       <p>Select your current course</p>
       <p id="datetime"></p>
     </div>
-  </div>
+  </header>
 
   <div class="semester">
-    <div class="semester-box"><a href="sem.jsp">B.Tech - CSE</a></div>
-    <div class="semester-box"><a href="btechaiml.jsp">B.Tech - AIML</a></div>
+    <div class="semester-box"><a href="sem.jsp">B.Tech-CSE</a></div>
+    <div class="semester-box"><a href="Aimlsem.jsp">B.Tech-AIML</a></div>
     <div class="semester-box"><a href="mtech.jsp">M.Tech</a></div>
     <div class="semester-box"><a href="bca.jsp">BCA</a></div>
     <div class="semester-box"><a href="mca.jsp">MCA</a></div>

@@ -10,93 +10,95 @@
   }
 %>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Semester 5</title>
-<link rel="Stylesheet" href="sem5.css">
+<title>Semester 4 | LNCT PYQ Portal</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="sem1.css">
 </head>
 <body>
-<img src="image/lnct.png" style="position: fixed;top: 50px; left: 0; height: 80px; width: 200px;">
-<div class="header">
-<input type="text" id="searchBar" class="searchBar" placeholder="Search Subject">
-    <h1><u>Semester-5</u></h1>
-    <h2>LNCT University, Bhopal</h2>
-    <p>Welcome <%= name %> | Enrollment No: <%= enrollment %></p>
-    <p id="datetime"></p>
+
+  <div class="header">
+    <img src="image/lnct.png" alt="LNCT Logo" class="logo">
+    <input type="text" id="searchBar" placeholder="Search Subject">
+    <div class="title">
+      <h1><u>Semester 5</u></h1>
+      <h2>LNCT University, Bhopal</h2>
+      <p>Welcome <%= name %> | Enrollment No: <%= enrollment %></p>
+      <p id="datetime"></p>
+    </div>
   </div>
-<div class="subject"> 
- <div class="box-container">
-<h3>Agile Methodology</h3>
-<ul>
-<li><a href="link" download>📘Mid Sem1 PYQ</a></li>
-<li><a href="link" download>📘Mid Sem2 PYQ</a></li>
-<li><a href="link" download>📘End Sem PYQ</a></li>
-<li><a href="link" download>📘Notes All Unit</a></li>
-<li><a href="link" download>📘VIQ one night before Exam</a></li>
-</ul>
-</div>
 
-<div class="box-container">
-<h3>Machine Learning</h3>
-<ul>
-<li><a href="link" download>📘Mid Sem1 PYQ</a></li>
-<li><a href="link" download>📘Mid Sem2 PYQ</a></li>
-<li><a href="link" download>📘End Sem PYQ</a></li>
-<li><a href="link" download>📘Notes All Unit</a></li>
-<li><a href="link" download>📘VIQ one night before Exam</a></li>
-</ul>
-</div>
+  <div class="subject">
+    <div class="box-container">
+      <h3>Agile Methodology</h3>
+      <ul>
+        <li><a href="pdf/ECLS mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/ECLS mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/ECLS end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="#">📘 Notes All Unit</a></li>
+        
+      </ul>
+    </div>
 
-<div class="box-container">
-<h3>Salesforse</h3>
-<ul>
-<li><a href="link" download>📘Mid Sem1 PYQ</a></li>
-<li><a href="link" download>📘Mid Sem2 PYQ</a></li>
-<li><a href="link" download>📘End Sem PYQ</a></li>
-<li><a href="link" download>📘Notes All Unit</a></li>
-<li><a href="link" download>📘VIQ one night before Exam</a></li>
-</ul>
-</div>
+    <div class="box-container">
+      <h3>Machine Learning</h3>
+      <ul>
+        <li><a href="pdf/maths M1 sem1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/M1  mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/Maths end sem1.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="#">📘 Notes All Unit</a></li>
+        
+      </ul>
+    </div>
 
-<div class="box-container">
-<h3>Cloud Computing</h3>
-<ul>
-<li><a href="link" download>📘Mid Sem1 PYQ</a></li>
-<li><a href="link" download>📘Mid Sem2 PYQ</a></li>
-<li><a href="link" download>📘End Sem PYQ</a></li>
-<li><a href="link" download>📘Notes All Unit</a></li>
-<li><a href="link" download>📘VIQ one night before Exam</a></li>
-</ul>
-</div>
+    <div class="box-container">
+      <h3>Cyber Security</h3>
+      <ul>
+        <li><a href="pdf/BEEE mid1 sem1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/BEEE mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/BEEE endsem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="#">📘 Notes All Unit</a></li>
+        
+      </ul>
+    </div>
 
-<div class="box-container">
-<h3>Cyber Security</h3>
-<ul>
-<li><a href="link" download>📘Mid Sem1 PYQ</a></li>
-<li><a href="link" download>📘Mid Sem2 PYQ</a></li>
-<li><a href="link" download>📘End Sem PYQ</a></li>
-<li><a href="link" download>📘Notes All Unit</a></li>
-<li><a href="link" download>📘VIQ one night before Exam</a></li>
-</ul>
-</div>
+    <div class="box-container">
+      <h3>Salesforce</h3>
+      <ul>
+        <li><a href="pdf/CA mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/CA end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="#">📘 Notes All Unit</a></li>
+        
+      </ul>
+    </div>
 
-</div>
-<script>
-  document.getElementById("datetime").innerHTML = new Date().toLocaleString();
-  document.getElementById("searchBar").addEventListener("keyup", function() {
+    <div class="box-container">
+      <h3>Cloud Computing</h3>
+      <ul>
+        <li><a href="pdf/ME mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/ME mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/ME end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="#">📘 Notes All Unit</a></li>
+       
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("datetime").innerHTML = new Date().toLocaleString();
+
+    document.getElementById("searchBar").addEventListener("keyup", function() {
       let input = this.value.toLowerCase();
       let boxes = document.getElementsByClassName("box-container");
-
       for (let i = 0; i < boxes.length; i++) {
         let text = boxes[i].textContent.toLowerCase();
-        if (text.includes(input)) {
-          boxes[i].style.display = "";
-        } else {
-          boxes[i].style.display = "none";
-        }
+        boxes[i].style.display = text.includes(input) ? "" : "none";
       }
     });
-</script>
+  </script>
+
 </body>
 </html>

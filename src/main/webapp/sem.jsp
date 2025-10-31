@@ -10,42 +10,27 @@
   }
 %>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Welcome | LNCT PYQ Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="sem.css">
 </head>
 <body>
-  <div class="header">
- <input type="text" id="searchBar" class="searchBar" placeholder="Search Semester">
 
-  <img src="image/lnct.png" style="position: fixed;top: 50px; left: 0; height: 80px; width: 200px;">
-    <h1><u>B.Tech CSE</u></h1>
+  <div class="header">
+    <div class="top-bar">
+      <input type="text" id="searchBar" placeholder="Search Semester">
+      <img src="image/lnct.png" alt="LNCT Logo" class="logo">
+    </div>
+
+    <h1>B.Tech-CSE</h1>
     <h2>LNCT University, Bhopal</h2>
     <p>Welcome <%= name %> | Enrollment No: <%= enrollment %></p>
     <p>Select your semester to view Previous Year Question Papers</p>
-  <p id="datetime"></p>
+    <p id="datetime"></p>
   </div>
-  
-  
-  
-<script>
-  document.getElementById("datetime").innerHTML = new Date().toLocaleString();
-  document.getElementById("searchBar").addEventListener("keyup", function() {
-      let input = this.value.toLowerCase();
-      let boxes = document.getElementsByClassName("semester-box");
-
-      for (let i = 0; i < boxes.length; i++) {
-        let text = boxes[i].textContent.toLowerCase();
-        if (text.includes(input)) {
-          boxes[i].style.display = "";
-        } else {
-          boxes[i].style.display = "none";
-        }
-      }
-    });
-</script>
 
   <div class="semester">
     <div class="semester-box"><a href="sem1.jsp">Semester 1</a></div>
@@ -57,6 +42,19 @@
     <div class="semester-box"><a href="sem7.jsp">Semester 7</a></div>
     <div class="semester-box"><a href="sem8.jsp">Semester 8</a></div>
   </div>
-  
+
+  <script>
+    document.getElementById("datetime").innerHTML = new Date().toLocaleString();
+
+    document.getElementById("searchBar").addEventListener("keyup", function() {
+      let input = this.value.toLowerCase();
+      let boxes = document.getElementsByClassName("semester-box");
+      for (let i = 0; i < boxes.length; i++) {
+        let text = boxes[i].textContent.toLowerCase();
+        boxes[i].style.display = text.includes(input) ? "" : "none";
+      }
+    });
+  </script>
+
 </body>
 </html>

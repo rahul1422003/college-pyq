@@ -6,7 +6,7 @@ FROM tomcat:10.1-jdk17-openjdk
 ENV CATALINA_OPTS "-Dorg.apache.catalina.startup.ContextConfig.jarsToSkip=*.jar"
 
 # 3. Copy the WAR file and rename it to ROOT.war
-COPY college-pyq.war /usr/local/tomcat/webapps/ROOT.war
+COPY "college pyq.war" /usr/local/tomcat/webapps/ROOT.war
 
 # 4. Expose default Tomcat port
 EXPOSE 8080
