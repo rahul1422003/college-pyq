@@ -25,17 +25,15 @@ public class User extends HttpServlet {
 
         if (name != null && !name.trim().isEmpty() && enrollment != null && !enrollment.trim().isEmpty()) {
 
-            // ---------------------------
-            // SESSION-ONLY STORAGE
-            // ---------------------------
+            // Session start
             HttpSession session = request.getSession(true);
             session.setAttribute("name", name);
             session.setAttribute("enrollment", enrollment);
 
-            // ---------------------------
-            // Redirect to course.jsp
-            // ---------------------------
-            response.sendRedirect("course.jsp");
+            // ✅ Render ke liye safe redirect
+            String redirectURL = request.getContextPath() + "/course.jsp";
+            System.out.println("Redirecting to: " + redirectURL);
+            response.sendRedirect(redirectURL);
 
         } else {
             out.println("<h3 style='color:red;'>Invalid name or enrollment number!</h3>");
