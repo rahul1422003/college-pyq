@@ -34,7 +34,7 @@
     <div class="box-container">
       <h3>Agile Methodology</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/Agile mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/agile mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Agile end sem.pdf">📘 End Sem PYQ</a></li>
         <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
@@ -45,7 +45,7 @@
     <div class="box-container">
       <h3>Machine Learning</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/ML mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/ML mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/ML endsem.pdf">📘 End Sem PYQ</a></li>
         <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
@@ -56,7 +56,7 @@
     <div class="box-container">
       <h3>Cyber Security</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/cyber mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/cyber mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/cyber endsem.pdf">📘 End Sem PYQ</a></li>
         <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
@@ -67,7 +67,7 @@
     <div class="box-container">
       <h3>Salesforce</h3>
       <ul>
-        <li><a href="pdf/CA mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/Salesforce mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/Salesforce mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Salesforce endsem.pdf">📘 End Sem PYQ</a></li>
         <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>

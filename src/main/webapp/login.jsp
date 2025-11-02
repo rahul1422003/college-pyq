@@ -171,7 +171,7 @@
 <body>
 
     <!-- Fixed Top-left LNCT Logo -->
-    <img src="image/lnct.png" alt="LNCT University Logo" class="fixed-logo">
+    <img src="image/lnct.png" alt="LNCT University Logo" class="fixed-logo"><br><br><br><br>
 
     <!-- Login Box -->
     <div class="box">

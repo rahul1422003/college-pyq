@@ -34,10 +34,10 @@
     <div class="box-container">
       <h3>Web Technology</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/wt mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/WT mid2 sem4.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_10_09-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -46,10 +46,10 @@
       <h3>Analysis Design of
 Algorithm</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML data analysis mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML Data analysis mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML data science endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -58,10 +58,10 @@ Algorithm</h3>
       <h3>Software Engineering and
 Project Management</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/sepm mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/SEPM mid2 sem4.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_6_05 end sem pyq sem 4 sepm-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -70,10 +70,10 @@ Project Management</h3>
       <h3>AI Product Development
 and Deployment</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML development mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML development mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/New Doc 11-02-2025 14.24.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -85,7 +85,7 @@ Pattern Recognition</h3>
         <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>

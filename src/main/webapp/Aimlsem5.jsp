@@ -34,10 +34,10 @@
     <div class="box-container">
       <h3>Agile Methodology</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Agile mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/agile mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/Agile end sem.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -49,7 +49,7 @@ Learning</h3>
         <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -61,7 +61,7 @@ Neural Networks</h3>
         <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -69,10 +69,10 @@ Neural Networks</h3>
     <div class="box-container">
       <h3>Cyber Security</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/cyber mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/cyber mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/cyber endsem.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>

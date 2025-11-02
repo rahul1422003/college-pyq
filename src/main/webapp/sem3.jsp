@@ -46,7 +46,7 @@
       <h3>Database</h3>
       <ul>
         <li><a href="pdf/Db mid1 sem3_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML db mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/DBMS end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
         <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
@@ -57,7 +57,7 @@
       <h3>Operating System</h3>
       <ul>
         <li><a href="pdf/OS mid1 sem4_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML os mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/OS endsem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
         <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         

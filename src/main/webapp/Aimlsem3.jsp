@@ -35,9 +35,9 @@
       <h3>DBMS</h3>
       <ul>
         <li><a href="pdf/Db mid1 sem3_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML db mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/DBMS end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -45,10 +45,10 @@
     <div class="box-container">
       <h3>Operating Systems</h3>
       <ul>
-        <li><a href="pdf/maths M1 sem1.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/M1  mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/Maths end sem1.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/OS mid1 sem4_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML os mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/OS endsem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -57,10 +57,10 @@
       <h3>Statistical Modelling
 and Data Reasoning</h3>
       <ul>
-        <li><a href="pdf/BEEE mid1 sem1_1.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/BEEE mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/BEEE endsem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML statics mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML statics mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML statics endsem.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -68,10 +68,10 @@ and Data Reasoning</h3>
     <div class="box-container">
       <h3>Data Visualization</h3>
       <ul>
-        <li><a href="pdf/CA mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/CA end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML data analysis mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML Data analysis mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML Data analysis endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -79,10 +79,10 @@ and Data Reasoning</h3>
     <div class="box-container">
       <h3>Discrete Structure</h3>
       <ul>
-        <li><a href="pdf/PPS mid 2 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/PPS mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/PPS end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Discrete mid1 sem3.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/Discrete mid2 sem3.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/Discrete end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
