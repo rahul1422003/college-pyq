@@ -18,7 +18,7 @@
             height: 100vh;
             display: flex;
             flex-direction: column;
-            justify-content: space-evenly;
+            justify-content: flex-start;
             align-items: center;
             padding: 20px;
             position: relative;
@@ -31,7 +31,7 @@
             left: 15px;
             height: 70px;
             width: auto;
-            z-index: 1; /* overlap fix */
+            z-index: 1;
         }
 
         /* Login Box */
@@ -45,7 +45,8 @@
             max-width: 90%;
             position: relative;
             z-index: 2;
-            margin-top: 100px; /* logo se neeche */
+            margin-top: 100px; /* logo ke neeche */
+            margin-bottom: 15px; /* ⬅ gap reduced here */
         }
 
         .logo {
@@ -95,9 +96,10 @@
             text-align: center;
             font-size: 13px;
             color: #444;
-            line-height: 1.6;
+            line-height: 1.5;
             font-weight: 500;
             animation: fadeIn 1.5s ease-in-out;
+            margin-top: 5px; /* ⬅ gap reduced here */
         }
 
         .credit-section .highlight {
@@ -135,7 +137,7 @@
         /* Mobile View */
         @media (max-width: 500px) {
             body {
-                justify-content: space-between;
+                justify-content: flex-start;
                 padding: 15px;
             }
 
@@ -149,7 +151,8 @@
                 width: 100%;
                 padding: 30px 20px;
                 border-radius: 12px;
-                margin-top: 80px; /* mobile ke liye thoda kam */
+                margin-top: 80px;
+                margin-bottom: 10px; /* ⬅ smaller gap for mobile */
             }
 
             .logo {
@@ -159,6 +162,7 @@
             .credit-section {
                 font-size: 11px;
                 line-height: 1.4;
+                margin-top: 3px;
                 margin-bottom: 5px;
             }
         }
@@ -182,11 +186,9 @@
 
     <!-- Credit Section -->
     <div class="credit-section">
-        <p>🚀 <span class="highlight">Crafted with Passion</span> by</p>
-        <p>
-            <span class="name">Rahul Yadav</span> <span class="enroll">(LNCDBTC21096)</span> &nbsp; | &nbsp;
-            <span class="name">Ravi Kumar Jha</span> <span class="enroll">(LNCDBTC31009)</span>
-        </p>
+      <br>  🚀 <span class="highlight">Crafted with Passion</span> by </br>
+        <span class="name">Rahul Yadav</span> <span class="enroll">(LNCDBTC21096)</span> &nbsp; | &nbsp;
+        <span class="name">Ravi Kumar Jha</span> <span class="enroll">(LNCDBTC31009)</span>
     </div>
 
 </body>
