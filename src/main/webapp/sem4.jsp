@@ -34,10 +34,10 @@
     <div class="box-container">
       <h3>Advance Java</h3>
       <ul>
-        <li><a href="pdf/ECLS mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/ECLS mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/ECLS end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/ad java mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/Ad Java sec mid sem4_1.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_2_01 advance Java end sem pyq sem4-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -45,10 +45,10 @@
     <div class="box-container">
       <h3>Compiler Design</h3>
       <ul>
-        <li><a href="pdf/maths M1 sem1.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/M1  mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/Maths end sem1.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/cd mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/CD sec mid sem4_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_4_03 end sem pyq sem 4 CD-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -56,10 +56,10 @@
     <div class="box-container">
       <h3>SEPM</h3>
       <ul>
-        <li><a href="pdf/BEEE mid1 sem1.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/BEEE mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/BEEE endsem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/sepm mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/SEPM mid2 sem4.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_6_05 end sem pyq sem 4 sepm-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -67,10 +67,10 @@
     <div class="box-container">
       <h3>Ada</h3>
       <ul>
-        <li><a href="pdf/CA mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/CA end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/ada mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/Ad Java sec mid sem4_4_03 02-Copy-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_8_07 end sem pyq sem4 Ada-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -78,10 +78,10 @@
     <div class="box-container">
       <h3>Web Technology</h3>
       <ul>
-        <li><a href="pdf/ME mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/ME mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/ME end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/wt mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/WT mid2 sem4.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/End sem pyq sem4_10_09-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>

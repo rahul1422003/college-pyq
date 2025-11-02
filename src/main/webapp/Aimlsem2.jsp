@@ -36,10 +36,10 @@
 life Sciences
 </h3>
       <ul>
-        <li><a href="pdf/ECLS mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/ECLS end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML ECLS mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML ECLS endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -48,10 +48,10 @@ life Sciences
       <h3>Linear Algebra and
 Optimization</h3>
       <ul>
-        <li><a href="pdf/maths M1 sem1.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/M1  mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/Maths end sem1.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML Linear mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML Linear endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -59,10 +59,10 @@ Optimization</h3>
     <div class="box-container">
       <h3>Mechanical Engineering</h3>
       <ul>
-        <li><a href="pdf/BEEE mid1 sem1_1.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/BEEE mid2 sem1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/BEEE endsem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML ME mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML ME endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -71,10 +71,10 @@ Optimization</h3>
       <h3>Electrical and Electronics
 Engineering</h3>
       <ul>
-        <li><a href="pdf/CA mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/CA end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML Electrical mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML Electrical endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -82,10 +82,10 @@ Engineering</h3>
     <div class="box-container">
       <h3>Data Structures</h3>
       <ul>
-        <li><a href="pdf/PPS mid 2 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/PPS mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/PPS end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML DS mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML DS endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -93,10 +93,10 @@ Engineering</h3>
     <div class="box-container">
       <h3>Data Analysis using Python</h3>
       <ul>
-        <li><a href="pdf/ME mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/ME mid2 sem1_1.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/ME end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML data analysis mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML Data analysis endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>

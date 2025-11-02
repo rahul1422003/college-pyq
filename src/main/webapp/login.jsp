@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LNCT Login Page</title>
     <style>
-       
         * {
             margin: 0;
             padding: 0;
@@ -19,7 +18,7 @@
             height: 100vh;
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            justify-content: space-evenly;
             align-items: center;
             padding: 20px;
             position: relative;
@@ -32,7 +31,7 @@
             left: 15px;
             height: 70px;
             width: auto;
-            z-index: 10;
+            z-index: 1; /* overlap fix */
         }
 
         /* Login Box */
@@ -44,20 +43,15 @@
             text-align: center;
             box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
             max-width: 90%;
+            position: relative;
+            z-index: 2;
+            margin-top: 100px; /* logo se neeche */
         }
 
         .logo {
             height: 80px;
             width: auto;
             margin-bottom: 15px;
-        }
-
-        .box h1 {
-            font-size: 18px;
-            color: #333;
-            margin-bottom: 10px;
-            line-height: 1.4;
-            font-weight: 600;
         }
 
         form input {
@@ -96,19 +90,14 @@
             box-shadow: 0 6px 12px rgba(0, 78, 146, 0.6);
         }
 
-        /* ----------------------------------
-           CREDIT SECTION (Improved Look)
-        ---------------------------------- */
+        /* Credit Section */
         .credit-section {
-            position: absolute;
-            bottom: 10px;
-            width: 100%;
             text-align: center;
             font-size: 13px;
             color: #444;
             line-height: 1.6;
             font-weight: 500;
-            animation: fadeIn 2s ease-in-out;
+            animation: fadeIn 1.5s ease-in-out;
         }
 
         .credit-section .highlight {
@@ -138,22 +127,16 @@
             transition: 0.3s ease;
         }
 
-        .credit-section .name:hover + .enroll {
-            color: #004e92;
-        }
-
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(10px); }
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* ----------------------------------
-           RESPONSIVE (MOBILE VIEW)
-        ---------------------------------- */
+        /* Mobile View */
         @media (max-width: 500px) {
             body {
-                justify-content: flex-start;
-                padding: 40px 10px;
+                justify-content: space-between;
+                padding: 15px;
             }
 
             .fixed-logo {
@@ -164,23 +147,19 @@
 
             .box {
                 width: 100%;
-                margin-top: 50px;
                 padding: 30px 20px;
                 border-radius: 12px;
+                margin-top: 80px; /* mobile ke liye thoda kam */
             }
 
             .logo {
                 height: 60px;
             }
 
-            .box h1 {
-                font-size: 16px;
-            }
-
             .credit-section {
                 font-size: 11px;
                 line-height: 1.4;
-                bottom: 5px;
+                margin-bottom: 5px;
             }
         }
     </style>
@@ -201,7 +180,7 @@
         </form>
     </div>
 
-    <!-- Stylish Credit Section -->
+    <!-- Credit Section -->
     <div class="credit-section">
         <p>🚀 <span class="highlight">Crafted with Passion</span> by</p>
         <p>

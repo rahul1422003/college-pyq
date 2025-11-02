@@ -34,9 +34,9 @@
     <div class="box-container">
       <h3>DBMS</h3>
       <ul>
-        <li><a href="pdf/ECLS mid1 sem1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/Db mid1 sem3_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/ECLS end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/DBMS end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
         <li><a href="#">📘 Notes All Unit</a></li>
        
       </ul>

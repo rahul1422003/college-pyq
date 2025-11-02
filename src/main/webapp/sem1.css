@@ -136,7 +136,7 @@ body {
   }
 }
 
-/* MOBILE */
+
 @media (max-width: 600px) {
   .header {
     padding: 25px 10px;

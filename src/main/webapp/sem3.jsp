@@ -37,7 +37,7 @@
         <li><a href="pdf/java mid sem1 sem3.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/java mid2 sem3.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Java end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -48,7 +48,7 @@
         <li><a href="pdf/Db mid1 sem3_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/DBMS end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -59,7 +59,7 @@
         <li><a href="pdf/OS mid1 sem4_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/OS endsem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -70,7 +70,7 @@
         <li><a href="pdf/Discrete mid1 sem3.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/Discrete mid2 sem3.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Discrete end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -81,7 +81,7 @@
         <li><a href="pdf/TOC mid1 sem3_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/TOC mid2 sem3.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/TOC end sem3_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -92,7 +92,7 @@
         <li><a href="pdf/python mid1_3.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/python mid2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/python endsem.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>

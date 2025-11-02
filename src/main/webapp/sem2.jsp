@@ -37,7 +37,7 @@
         <li><a href="pdf/physics mid1 sem2_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/Physics mid2 sem2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Physics end sem2.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -48,7 +48,7 @@
         <li><a href="pdf/Linear mid1 sem2.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/Linear mid2 sem2.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Linear end sem2_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -59,7 +59,7 @@
         <li><a href="pdf/DCES mid1 sem2_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/DCES mid2 sem2_4.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/DCES end sem2_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -70,7 +70,7 @@
         <li><a href="pdf/DS mid1 sem2_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/CA mid2 sem1_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/DS end sem2_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -81,7 +81,7 @@
         <li><a href="pdf/CN mid1 sem2_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/CN mid2 sem2_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/CN end sem2_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -92,7 +92,7 @@
         <li><a href="pdf/civil mid1 sem2_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/Civil mid2 sem2_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
         <li><a href="pdf/Civil end sem1_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
       </ul>
     </div>
   </div>

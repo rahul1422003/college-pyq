@@ -41,11 +41,11 @@
   <div class="semester">
     <div class="semester-box"><a href="sem.jsp">B.Tech-CSE</a></div>
     <div class="semester-box"><a href="Aimlsem.jsp">B.Tech-AIML</a></div>
-    <div class="semester-box"><a href="mtech.jsp">M.Tech</a></div>
-    <div class="semester-box"><a href="bca.jsp">BCA</a></div>
-    <div class="semester-box"><a href="mca.jsp">MCA</a></div>
-    <div class="semester-box"><a href="bba.jsp">BBA</a></div>
-    <div class="semester-box"><a href="mba.jsp">MBA</a></div>
+    <div class="semester-box"><a href="Mtech.jsp">M.Tech</a></div>
+    <div class="semester-box"><a href="BCA.jsp">BCA</a></div>
+    <div class="semester-box"><a href="MCA.jsp">MCA</a></div>
+    <div class="semester-box"><a href="BBA.jsp">BBA</a></div>
+    <div class="semester-box"><a href="MBA.jsp">MBA</a></div>
   </div>
 
   <script>

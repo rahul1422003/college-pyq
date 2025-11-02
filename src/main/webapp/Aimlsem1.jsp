@@ -35,10 +35,10 @@
       <h3>Advanced Physics &
 Sustainable Environment</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML physics mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML physics endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
@@ -46,10 +46,10 @@ Sustainable Environment</h3>
     <div class="box-container">
       <h3>Advanced Calculus</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML maths mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML maths endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -57,10 +57,10 @@ Sustainable Environment</h3>
     <div class="box-container">
       <h3>Decoding Data</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML data science mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML data science endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -68,10 +68,10 @@ Sustainable Environment</h3>
     <div class="box-container">
       <h3>PPS</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML pps mid1_2_01-Copy.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML pps endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -80,10 +80,10 @@ Sustainable Environment</h3>
       <h3>Digital Circuits
 &Embedded Systems</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML DCES mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
         <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML DCES endsem_3_02 01-Copy-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
         
       </ul>
     </div>
@@ -92,10 +92,10 @@ Sustainable Environment</h3>
       <h3>Civil Engineering&
 Mechanics</h3>
       <ul>
-        <li><a href="pdf/">📘 Mid Sem 1 PYQ</a></li>
-        <li><a href="pdf/">📘 Mid Sem 2 PYQ</a></li>
-        <li><a href="pdf/">📘 End Sem PYQ</a></li>
-        <li><a href="#">📘 Notes All Unit</a></li>
+        <li><a href="pdf/AIML civil mid1.pdf">📘 Mid Sem 1 PYQ</a></li>
+        <li><a href="pdf/AIML civil mid2_2_01-Copy.pdf">📘 Mid Sem 2 PYQ</a></li>
+        <li><a href="pdf/AIML civil endsem_2_01-Copy.pdf">📘 End Sem PYQ</a></li>
+        <li><a href="pdf/Coming_Soon_Notes_Updated.pdf">📘 Notes All Unit</a></li>
        
       </ul>
     </div>
