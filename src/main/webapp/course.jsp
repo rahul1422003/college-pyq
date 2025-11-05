@@ -3,6 +3,7 @@
 <%
   String name = (String) session.getAttribute("name");
   String enrollment = (String) session.getAttribute("enrollment");
+  String semester = (String) session.getAttribute("semester"); // Added semester
 
   if (name == null || enrollment == null) {
     response.sendRedirect("login.jsp");
@@ -32,6 +33,9 @@
     <div class="header-content">
       <h1>Welcome <%= name %></h1>
       <p>Enrollment No: <%= enrollment %></p>
+      <% if(semester != null) { %>
+        <%= semester %>
+      <% } %>
       <h2>LNCT University, Bhopal</h2>
       <p>Select your current course</p>
       <p id="datetime"></p>

@@ -159,7 +159,7 @@
             const enrollment = document.getElementsByName("enrollment")[0].value.trim();
             const pattern = /^L[A-Za-z]{6}[0-9]{5}$/;
             if (!pattern.test(enrollment)) {
-                alert("❌ Invalid Enrollment Number!\nIt must start with 'L', have 7 letters and 5 digits (total 12 characters).");
+                alert("❌ Invalid Enrollment Number!");
                 return false;
             }
             return true;
