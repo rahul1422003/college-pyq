@@ -7,7 +7,7 @@
   if (name == null || enrollment == null) {
     response.sendRedirect("login.jsp");
     return;
-  }
+ }
 %>
 <!DOCTYPE html>
 <html lang="en">
@@ -23,7 +23,7 @@
     <img src="image/lnct.png" alt="LNCT Logo" class="logo">
     <input type="text" id="searchBar" placeholder="Search Subject">
     <div class="title">
-      <h1><u>Semester 1</u></h1>
+      <h1><u>Semester-1</u></h1>
       <h2>LNCT University, Bhopal</h2>
       <p>Welcome <%= name %> | Enrollment No: <%= enrollment %></p>
       <p id="datetime"></p>
@@ -74,7 +74,7 @@
         
       </ul>
     </div>
-
+    
     <div class="box-container">
       <h3>PPS</h3>
       <ul>

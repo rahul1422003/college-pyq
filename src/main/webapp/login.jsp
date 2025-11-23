@@ -195,5 +195,46 @@
         <span class="name">Rahul Yadav</span> <span class="enroll">(LNCDBTC21096)</span> &nbsp; | &nbsp;
         <span class="name">Ravi Kumar Jha</span> <span class="enroll">(LNCDBTC31009)</span>
     </div>
+    <!-- 🚀 Firebase Script (LATEST v12.6.0) -->
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js";
+    import { getFirestore, doc, setDoc, serverTimestamp }
+        from "https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js";
+
+    // Your Firebase Config
+    const firebaseConfig = {
+        apiKey: "AIzaSyDjyyclPsohGvcHuk5mUwbBjPL3O4AXT68",
+        authDomain: "portfolio-bf19f.firebaseapp.com",
+        projectId: "portfolio-bf19f",
+        storageBucket: "portfolio-bf19f.firebasestorage.app",
+        messagingSenderId: "292766116204",
+        appId: "1:292766116204:web:2d092199b88b2b962beb49",
+        measurementId: "G-6CZKTFJE69"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+
+    // ⭐ When Login form submit hota hai → Firebase me bhi store hoga
+    document.querySelector("form").addEventListener("submit", async (e) => {
+
+        const name = document.getElementsByName("name")[0].value;
+        const enroll = document.getElementsByName("enrollment")[0].value;
+        const sem = document.getElementsByName("semester")[0].value;
+
+        // Save to Firestore under "students" collection
+        setDoc(doc(db, "students", name), {
+            name: name,
+            enrollment: enroll,
+            semester: sem,
+            loginTime: serverTimestamp()
+        });
+
+        // ⭐ IMPORTANT: DO NOT prevent default, servlet ko bhi request bhejna hai
+        // e.preventDefault(); → USE NAHI KIYA
+    });
+
+</script>
+    
 </body>
 </html>

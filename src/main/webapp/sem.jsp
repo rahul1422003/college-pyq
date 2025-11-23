@@ -18,7 +18,6 @@
   <link rel="stylesheet" href="sem.css">
 </head>
 <body>
-
   <div class="header">
     <div class="top-bar">
       <input type="text" id="searchBar" placeholder="Search Semester">

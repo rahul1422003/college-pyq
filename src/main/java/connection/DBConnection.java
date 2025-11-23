@@ -8,7 +8,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:mysql://shortline.proxy.rlwy.net:28399/railway";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "JoiagVyYcbieILkpNBtadLgwKPwBWvMO"; // ⚠️ yahan apna password daalna hai (Railway ka)
+    private static final String PASSWORD = "JoiagVyYcbieILkpNBtadLgwKPwBWvMO"; 
 
     public static Connection getConnection() {
         Connection connection = null;

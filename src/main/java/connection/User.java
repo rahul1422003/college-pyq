@@ -24,7 +24,7 @@ public class User extends HttpServlet {
         String enrollment = request.getParameter("enrollment");
         String semester = request.getParameter("semester");
 
-        // ✅ Enrollment validation rule
+        // Enrollment validation rule
         String pattern = "^L[A-Za-z]{6}[0-9]{5}$";
 
         if (enrollment == null || !enrollment.matches(pattern)) {
@@ -33,13 +33,13 @@ public class User extends HttpServlet {
             return;
         }
 
-        // ✅ Save data to session
+        // Save data to session
         HttpSession session = request.getSession();
         session.setAttribute("name", name);
         session.setAttribute("enrollment", enrollment);
         session.setAttribute("semester", semester);
 
-        // ✅ Save data to database
+        // Save data to database
         try (Connection conn = DBConnection.getConnection()) {
             if (conn != null) {
                 String sql = "INSERT INTO users (name, enrollment, semester) VALUES (?, ?, ?)";
@@ -59,7 +59,7 @@ public class User extends HttpServlet {
             return;
         }
 
-        // ✅ Redirect to course.jsp after successful login
+        // Redirect to course.jsp after successful login
         response.sendRedirect(request.getContextPath() + "/course.jsp");
     }
 }
